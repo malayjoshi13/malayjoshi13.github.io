@@ -1,52 +1,194 @@
 ---
 permalink: /
-title: ""
+#layout: archive
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-👋🏼 Hello there, I am Malay Joshi
-======
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<div hidden="hidden">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P0DmcjPhTVQDSVsO6eLpfLlblpD7aYEdFi8dEehI1TI&cl=ffffff&w=a"></script>
+</div>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<span class="small_font">👋🏼 Hello there, I am Malay Joshi.I am a first-year <b>Ph.D. at the CSAIL, MIT</b> advised by Prof. <a target="_blank" href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>. I am supported by the <b>Ida Green Fellowship</b>. I am grateful to have been advised by some of the most amazing researchers, including Prof. <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a>, <a target="_blank" href="https://vinaypn.github.io/">Vinay Namboodiri</a>, <a target="_blank" href="https://www.iiit.ac.in/people/faculty/mkrishna/">K. Madhav Krishna</a>, <a target="_blank" href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a>, <a target="_blank" href="http://liampaull.ca/">Liam Paull</a>, and <a target="_blank" href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a>.
+<br>&emsp;&emsp;&emsp;I was also a <b>Data Scientist at Microsoft</b>. I led the recommendation and suggestion team for the world's biggest enterprise-facing email client - Outlook. These features are used by more than 100 million users per month!
+<br>&emsp;&emsp;&emsp;<b>Creative Outlet.</b> I am a musician. I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also LOVE traveling and used to create travel vlogs and music covers on YouTube! My <b>brother</b> is an amazing pianist and has taken over the channel now: <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">Insen: Outdoor Pianist</a>. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<h3>Research Interest</h3>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<div class="recent_updates">Selected Research</div>
+<span style="font-size:14px">*Equal Authors / <span class="highlight">Highlighted Papers</span></span>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/conceptgraphs.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning</div>
+		<div class="sub-title">Qiao Gu*, Ali Kuwajerwala*, Sacha Morin*, Krishna Murthy Jatavallabhula*, <b style="color:#a115a0">Bipasha Sen</b>, Aditya Agarwal, Kirsty Ellis, Celso Miguel de Melo, Corban Rivera, William Paul, Rama Chellappa, Chuang Gan, Joshua B. Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull, <i><b>preprint</b></i></div>
+		<span class="research-text">
+		For robots to perform a wide variety of tasks, they require a 3D representation of the world that is semantically rich, yet compact and efficient for task-driven perception and planning. ConceptGraphs is an open-vocabulary graph-structured representation for 3D scenes that generalize to novel semantic classes, without the need to collect large 3D datasets or finetune models. 
+		</span>
+	</div>
+</div>
 
-**Markdown generator**
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/edmp.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">EDPM: Ensemble-of-costs-guided Diffusion for Motion Planning</div>
+		<div class="sub-title">Kallol Saha*, Vishal Mandadi*, Jayaram Reddy*, Ajit Srikanth, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>, Arun Singh, Madhava Krishna, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/pdf/2309.11414.pdf">ArXiv</a></div>
+		<span class="research-text">
+		EDMP combines the strength of classical planning and deep learning by leveraging a diffusion policy to learn a prior over kinematically valid trajectories and guide it directly at the time of inference using scene-specific costs such as "collision-cost". Instead of using a single-cost, we propose using multiple-cost functions (ensemble-of-cost-guidance) to capture variations across scenes, thereby generalizing to diverse scenes.
+		</span>
+	</div>
+</div>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/hypnerf.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>NeurIPS 2023</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">ArXiv</a></div>
+		<span class="research-text">
+		Learning generalizable NeRF priors over categories of scenes or objects has been challenging due to the high dimensionality of network weight space. To address the limitations of existing work on generalization, multi-view consistency and to improve quality, we propose HyP-NeRF, a latent conditioning method for learning generalizable category-level NeRF priors using hypernetworks. 
+		</span>
+	</div>
+</div>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/case2023.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Disentangling Planning and Control for Non-prehensile Tabletop Manipulation</div>
+		<div class="sub-title">Vishal Mandadi, Kallol Saha, Dipanwita Guhathakurta, Mohammad Nomaan Qureshi, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>,
+Dipanjan Das, Brojeshwar Bhowmick, Arun Kumar Singh, Madhava Krishna, <i><b>CASE 2023</b></i></div>
+		<span class="research-text">
+		Our novel framework disentangles planning and control enabling us to operate in a context- free manner. Our method consists of an A* planner and a low-level RL controller. The low-level RL controller is agnostic of the scene context and A* is idependent of the low-level control and only takes scene context into account.
+		</span>
+	</div>
+</div>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/indie-icmpc.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Uncovering hidden biases against Indian independent artists in the perception of music quality by Indian
+Audience</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Vinoo Alluri, <i><b>ICMPC 2023</b></i></div>
+		<span class="research-text">
+		Unlike well-established (W-E) music artists, Indian indie (In-In) music artists are small-scale artists unsigned by major music labels. Consequently, In-In music receives less publicity and resources during music production. Thus, In-In may be perceived to be lower in quality by the Indian audience compared to W-E. In this work, we aim to investigate if the Indian audience's perception of music quality is biased.
+		</span>
+	</div>
+</div>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/scarp_banner.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">SCARP: 3D <b>S</b>hape <b>C</b>ompletion in <b>AR</b>bitrary <b>P</b>oses for Improved Grasping</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>ICRA 2023, RSS-W 2023</b></i><a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
+		<span class="research-text">
+		We propose SCARP, a model that performs Shape Completion in ARbitrary Poses. Given a partial pointcloud of an object, SCARP learns a disentangled feature representation of pose and shape by relying on rotationally equivariant pose features and geometric shape features trained using a multi-tasking objective. 
+		</span>
+	</div>
+</div>
+
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/inr-v.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">INR-V: A Continuous Representation Space for Video-based Generative Tasks</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Vinay Namboodiri, C V Jawahar, <i><b>TMLR 2022</b></i><a target="_blank"  class="tab_paper" href="https://openreview.net/forum?id=aIoEkwc2oB&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">OpenReview</a><a target="_blank" class="tab_paper" href="https://skymanaditya1.github.io/INRV/">project page</a><a target="_blank" class="tab_paper" href="https://youtu.be/ViIwnu5vcck">video</a></div>
+		<span class="research-text">
+		We propose INR-V, a video representation network that learns a continuous space for video-based generative tasks. INR-V parameterizes videos using implicit neural representations (INRs), a multi-layered perceptron that predicts an RGB value for each input pixel location of the video.
+		</span>
+	</div>
+</div>
+
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/faceoff.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">FaceOff: A Video-to-Video Face Swapping System</div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i><a target="_blank" class="tab_paper"  href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.html">project page</a><a target="_blank" class="tab_paper"  href="https://bipashasen.github.io/FaceOff">paper</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=3TCugwmMjzo&t=2s">video</a> </div>
+		<span class="research-text">
+		We introduce video-to-video (V2V) face-swapping, a novel task of face-swapping that can preserve (1) the identity and expressions of the source (actor) face video and (2) the background and pose of the target (double) video. We propose FaceOff, a V2V face-swapping system that operates by learning a robust blending operation to merge two face videos following the constraints above. 
+		</span>
+	</div>
+</div>
+
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/lipreading.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale</div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i><a target="_blank" class="tab_paper" class="tab_paper" href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_Towards_MOOCs_for_Lipreading_Using_Synthetic_Talking_Heads_To_Train_WACV_2023_paper.html">paper</a></div>
+		<span class="research-text">
+		We propose an end-to-end automated pipeline to a lipreading training platform using state-of-the-art talking heading video generator networks, text-to-speech models, and computer vision techniques. We then perform an extensive human evaluation using carefully thought out lipreading exercises to validate the quality of our designed platform against the existing lipreading platforms. 
+		</span>
+	</div>
+</div>
+
+
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/ocrtoc.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Approaches and Challenges in Robotic Perception for Table-top Rearrangement and Planning</div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Shankara Narayanan V*, Vishal Reddy Mandadi*, Brojeshwar Bhowmick, K Madhava Krishna, <i><b>Arxiv 2022</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2205.04090">paper</a><a target="_blank" class="tab_paper" href="https://youtu.be/GrOXEmwzxlA">video</a></div>
+		<div class="win"><img src="images/trophy-icon.webp" width="10px">3rd in <a class="prize" href="https://rpal.cse.usf.edu/rgmc_icra2022/">ICRA 2022 OCRTOC</a></div>
+		<span class="research-text">
+		Table-top Rearrangement and Planning is a challenging problem that relies heavily on an excellent perception stack. We present a comprehensive overview and discuss the different challenges associated with the perception module. This work is a result of our extensive involvement in the ICRA 2022 OCRTOC Challenge.
+		</span>
+	</div>
+</div>
+
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/personalized.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Personalized One-Shot Lipreading for an ALS Patient</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>BMVC 2021</b></i><a class="tab_paper" target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">paper</a><a target="_blank"  class="tab_paper" href="https://youtu.be/_famGVaem-8">video</a><a target="_blank"  class="tab_paper" href="http://bhaasha.iiit.ac.in/lipwav">portal</a></div>
+		<span class="research-text">
+		We propose a personalized network to lipread an ALS patient using only one-shot examples. Our approach significantly improves and achieves high top-5accuracy with 83.2% accuracy compared to 62.6% achieved by comparable methods for the patient. Apart from evaluating our approach on the ALS patient, we also extend it to people with hearing impairment relying extensively on lip movements to communicate.
+		</span>
+	</div>
+</div>
+
