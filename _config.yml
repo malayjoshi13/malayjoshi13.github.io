@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malay's Homepage"
+title                    : "Malay Joshi"
 title_separator          : "-"
 name                     : &name "Malay Joshi"
 description              : &description "AI Engineer at Wow Internet Labz"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://millendroy.github.io/files/MalayJoshi_Resume.pdf"
+  cv               : "https://malayjoshi13.github.io/files/MalayJoshi_Resume.pdf"
 
 
 # Reading Files
