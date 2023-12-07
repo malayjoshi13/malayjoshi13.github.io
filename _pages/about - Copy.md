@@ -20,7 +20,7 @@ redirect_from:
 
 <span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
 
-<!-- <div class="recent_updates">Selected Research</div>
+<div class="recent_updates">Selected Research</div>
 <span style="font-size:14px">*Equal Authors / <span class="highlight">Highlighted Papers</span></span>
 
 <div class="research-block">
@@ -190,23 +190,5 @@ Audience</div>
 		We propose a personalized network to lipread an ALS patient using only one-shot examples. Our approach significantly improves and achieves high top-5accuracy with 83.2% accuracy compared to 62.6% achieved by comparable methods for the patient. Apart from evaluating our approach on the ALS patient, we also extend it to people with hearing impairment relying extensively on lip movements to communicate.
 		</span>
 	</div>
-</div> -->
+</div>
 
-
-
-
-<div class="recent_updates">Updates</div>
-<ul style="margin-top:-3px" class="updates">
-	<li><span class="updates-month">AUG'23</span> <span class="updates-content">Attended 5-days <b>Short Term Course</b> on Computer Vision and Intelligent Applications 2023 at NIT Kurukshetra.</span></li>
-	<li><span class="updates-month">JUL'23</span> <span class="updates-content">Participated in 3-days <b>Artificial Intelligence Summer School (AISS)</b> organized by Infosys CAI, IIIT-Delhi.</span></li>
-	<li><span class="updates-month">DEC'22</span> <span class="updates-content">Concluded servive as a Program Coordinator and one of the 6 mentors for semester-wise <b>ECE Mentorship Program</b> for junior students during my 5th Semester, 6th Semester and 7th Semester.</span></li>	
-	<li><span class="updates-month">JUN'22</span> <span class="updates-content">Concluded <b>two-year long service</b> as a Core Team Member of AI group at <b>Google Developer Student Club</b> at my college.</span></li>
-	<li><span class="updates-month">AUG '22</span> <span class="updates-content"><b>National-level finalist</b> at <b>Smart India Hackathon 2022.</span></li>	
-	<li><span class="updates-month">MAY'22</span> <span class="updates-content"><b>Second runner-up</b> at <b>Plan2Hack 2022</b> conducted by Bharati Vidyapeeth’s College of Engineering, New Delhi.</span></li>
-	<li><span class="updates-month">FEB '2</span> <span class="updates-content">Among the <b>top-5 finalists</b> in <b>IoT Challenge 2020</b> at UPES, Dehradun in association with Aakaar'20 IIT Bombay.</span></li>	
-	<li><span class="updates-month">JAN '20</span> <span class="updates-content"> <b>College-level finalist</b> at Internal Smart India Hackathon 2020.</span></li>	
-	<li><span class="updates-month">NOV'19</span> <span class="updates-content"><b>First position</b> at <b>Dr. Abdul Kalam Technical, Literary and Management Fest'19 (State Level)</b> conducted by AKTU, Uttar Pradesh for Technical Poster Making.</span></li>
-	<li><span class="updates-month">NOV'19</span> <span class="updates-content"><b>First position</b> at <b>Dr. Abdul Kalam Technical, Literary and Management Fest'19 (Zonal Level)</b> conducted by KNMIET, Uttar Pradesh for Technical Poster Making.</span></li>	
-	<li><span class="updates-month">OCT'19</span> <span class="updates-content">Second position for research poster presentation at <b>SCROLLS'19</b> for technical poster presentation competition.</span></li>			
-	<li><span class="updates-month">SEPT'19</span> <span class="updates-content">Participated in 2-days <b>Workshop on IoT 2019</b> at IIT Roorkee organized by ROBOTech Labs</span></li>
-</ul>
