@@ -201,7 +201,7 @@ Audience</div>
 	<li><span class="updates-month">JUL'23</span> <span class="updates-content">Participated in 3-days <b>Artificial Intelligence Summer School (AISS)</b> organized by Infosys CAI, IIIT-Delhi.</span></li>
 	<li><span class="updates-month">DEC'22</span> <span class="updates-content">Concluded servive as a Program Coordinator and one of the 6 mentors for semester-wise <b>ECE Mentorship Program</b> for junior students during my 5th Semester, 6th Semester and 7th Semester.</span></li>	
 	<li><span class="updates-month">JUN'22</span> <span class="updates-content">Concluded <b>two-year long service</b> as a Core Team Member of AI group at <b>Google Developer Student Club</b> at my college.</span></li>
-	<li><span class="updates-month">AUG '22</span> <span class="updates-content"><b>National-level finalist</b> at <b>Smart India Hackathon 2022.</span></li>	
+	<li><span class="updates-month">AUG '22</span> <span class="updates-content"><b>National-level finalist</b> at <b>Smart India Hackathon 2022.</b></span></li>	
 	<li><span class="updates-month">MAY'22</span> <span class="updates-content"><b>Second runner-up</b> at <b>Plan2Hack 2022</b> conducted by Bharati Vidyapeeth’s College of Engineering, New Delhi.</span></li>
 	<li><span class="updates-month">FEB '2</span> <span class="updates-content">Among the <b>top-5 finalists</b> in <b>IoT Challenge 2020</b> at UPES, Dehradun in association with Aakaar'20 IIT Bombay.</span></li>	
 	<li><span class="updates-month">JAN '20</span> <span class="updates-content"> <b>College-level finalist</b> at Internal Smart India Hackathon 2020.</span></li>	
@@ -209,4 +209,4 @@ Audience</div>
 	<li><span class="updates-month">NOV'19</span> <span class="updates-content"><b>First position</b> at <b>Dr. Abdul Kalam Technical, Literary and Management Fest'19 (Zonal Level)</b> conducted by KNMIET, Uttar Pradesh for Technical Poster Making.</span></li>	
 	<li><span class="updates-month">OCT'19</span> <span class="updates-content">Second position for research poster presentation at <b>SCROLLS'19</b> for technical poster presentation competition.</span></li>			
 	<li><span class="updates-month">SEPT'19</span> <span class="updates-content">Participated in 2-days <b>Workshop on IoT 2019</b> at IIT Roorkee organized by ROBOTech Labs</span></li>
-</ul>
+</ul>	
