@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## An  Approach  Towards  Action  Recognition  using  Part  Based Hierarchical Fusion
+<!-- ## An  Approach  Towards  Action  Recognition  using  Part  Based Hierarchical Fusion
 
 **Computer Vision, Deep Learning**, <a href="https://www.researchgate.net/profile/Aditya_Agarwal8/publication/344587654_EasyChair_Preprint_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion/links/5f821144299bf1b53e1de51e/EasyChair-Preprint-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion.pdf" target="_blank">paper</a>, (accepted at ISVC), 2020
 
@@ -13,71 +13,177 @@ author_profile: true
 </span>
 
 <span class="research-text">
-Human body can be represented as an articulation of rigid and hinged joints which can be combined to form the parts of the body. Human actions can be thought of as a collective action of these parts. Hence, learning an effective spatio-temporal representation of the collective motion of these parts is key to action recognition. In this work, we propose an end-to-end pipeline for the task of human action recognition on video sequences using 2D joint trajectories estimated from a pose estimation framework. We use a Hierarchical Bidirectional Long Short Term Memory Network (HBLSTM) to model the spatio-temporal dependencies of the motion by fusing the pose based joint trajectories in a part based hierarchical fashion. <i class="underline">Currently we are extending research on this area for dynamic scene understanding.</i></span>
+Human body can be represented as an articulation of rigid and hinged joints which can be combined to form the parts of the body. Human actions can be thought of as a collective action of these parts. Hence, learning an effective spatio-temporal representation of the collective motion of these parts is key to action recognition. In this work, we propose an end-to-end pipeline for the task of human action recognition on video sequences using 2D joint trajectories estimated from a pose estimation framework. We use a Hierarchical Bidirectional Long Short Term Memory Network (HBLSTM) to model the spatio-temporal dependencies of the motion by fusing the pose based joint trajectories in a part based hierarchical fashion. <i class="underline">Currently we are extending research on this area for dynamic scene understanding.</i></span> -->
 
-## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 
-**Speech Recognition, Deep Learning**, <a href="/files/SLT.pdf" target="_blank">paper</a>, (accepted at SLT), 2021
+<!-- <div class="recent_updates">Selected Research</div>
+<span style="font-size:14px">*Equal Authors / <span class="highlight">Highlighted Papers</span></span> -->
 
-<span class="research-img">
-	<img src="/images/masr.svg">
-</span>
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/conceptgraphs.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning</div>
+		<div class="sub-title">Qiao Gu*, Ali Kuwajerwala*, Sacha Morin*, Krishna Murthy Jatavallabhula*, <b style="color:#a115a0">Bipasha Sen</b>, Aditya Agarwal, Kirsty Ellis, Celso Miguel de Melo, Corban Rivera, William Paul, Rama Chellappa, Chuang Gan, Joshua B. Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull, <i><b>preprint</b></i></div>
+		<span class="research-text">
+		For robots to perform a wide variety of tasks, they require a 3D representation of the world that is semantically rich, yet compact and efficient for task-driven perception and planning. ConceptGraphs is an open-vocabulary graph-structured representation for 3D scenes that generalize to novel semantic classes, without the need to collect large 3D datasets or finetune models. 
+		</span>
+	</div>
+</div>
 
-<span class="research-text">
-Multilingual automatic speech recognition (ASR) systems have led to a major step forward towards building robust ASR systems for languages with low resource availability by increasing coverage for individual languages. State of the art multilingual systems are developed with sequential networks such as recurrent neural networks (RNNs) to capture long term temporal dependencies. Training and inference in such sequential models are computationally expensive, which poses a significant challenge in terms of scalability and real-time applications. In this work, an alternate architecture based on short term contextual temporal features learned on convolutional neural networks (CNNs) with a non-sequential discriminative network is proposed. Three low resource Indic languages, Gujarati, Tamil, and Telugu are used to ascertain that our proposed architecture trains 5.5× faster and reduces the inference time by a factor of 26 while maintaining comparable word error rates (WERs) against our baseline RNN.</span>
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/edmp.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">EDPM: Ensemble-of-costs-guided Diffusion for Motion Planning</div>
+		<div class="sub-title">Kallol Saha*, Vishal Mandadi*, Jayaram Reddy*, Ajit Srikanth, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>, Arun Singh, Madhava Krishna, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/pdf/2309.11414.pdf">ArXiv</a></div>
+		<span class="research-text">
+		EDMP combines the strength of classical planning and deep learning by leveraging a diffusion policy to learn a prior over kinematically valid trajectories and guide it directly at the time of inference using scene-specific costs such as "collision-cost". Instead of using a single-cost, we propose using multiple-cost functions (ensemble-of-cost-guidance) to capture variations across scenes, thereby generalizing to diverse scenes.
+		</span>
+	</div>
+</div>
 
-## Knowledge Graph Based Attachment Suggestions
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/hypnerf.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>NeurIPS 2023</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">ArXiv</a></div>
+		<span class="research-text">
+		Learning generalizable NeRF priors over categories of scenes or objects has been challenging due to the high dimensionality of network weight space. To address the limitations of existing work on generalization, multi-view consistency and to improve quality, we propose HyP-NeRF, a latent conditioning method for learning generalizable category-level NeRF priors using hypernetworks. 
+		</span>
+	</div>
+</div>
 
-**Information Retrieval, Recommendation**, (internal), 2020
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/case2023.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Disentangling Planning and Control for Non-prehensile Tabletop Manipulation</div>
+		<div class="sub-title">Vishal Mandadi, Kallol Saha, Dipanwita Guhathakurta, Mohammad Nomaan Qureshi, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>,
+Dipanjan Das, Brojeshwar Bhowmick, Arun Kumar Singh, Madhava Krishna, <i><b>CASE 2023</b></i></div>
+		<span class="research-text">
+		Our novel framework disentangles planning and control enabling us to operate in a context- free manner. Our method consists of an A* planner and a low-level RL controller. The low-level RL controller is agnostic of the scene context and A* is idependent of the low-level control and only takes scene context into account.
+		</span>
+	</div>
+</div>
 
-<span class="research-img">
-	<img src="/images/pu.svg" width="500px">
-</span>
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/indie-icmpc.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Uncovering hidden biases against Indian independent artists in the perception of music quality by Indian
+Audience</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Vinoo Alluri, <i><b>ICMPC 2023</b></i></div>
+		<span class="research-text">
+		Unlike well-established (W-E) music artists, Indian indie (In-In) music artists are small-scale artists unsigned by major music labels. Consequently, In-In music receives less publicity and resources during music production. Thus, In-In may be perceived to be lower in quality by the Indian audience compared to W-E. In this work, we aim to investigate if the Indian audience's perception of music quality is biased.
+		</span>
+	</div>
+</div>
 
-<span class="research-text">
-In this paper we present AiGraph, an enterprise knowledge graph, representing details about how an employee communicates through emails, meetings, and documents. By representing all her communication in the form of a graph, we are able to extract complex insights which are computationally expensive in silo’ed applications. We consider a recommendation application – Meeting Insights – to show power of AiGraph. This application recommends related emails and documents for a given meeting. There are a number of ways in which AiGraph can improve the Meeting Insights – most signifcantly, it can improve the relevance of the system by providing better candidate emails; and features for a ranker to rank these candidates. In this paper we describe various ways to improve relevance of Meeting Insights using AiGraph.</span>
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/scarp_banner.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">SCARP: 3D <b>S</b>hape <b>C</b>ompletion in <b>AR</b>bitrary <b>P</b>oses for Improved Grasping</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>ICRA 2023, RSS-W 2023</b></i><a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
+		<span class="research-text">
+		We propose SCARP, a model that performs Shape Completion in ARbitrary Poses. Given a partial pointcloud of an object, SCARP learns a disentangled feature representation of pose and shape by relying on rotationally equivariant pose features and geometric shape features trained using a multi-tasking objective. 
+		</span>
+	</div>
+</div>
 
-## Sentence Modelling for Contextual Meeting Segmentation
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/inr-v.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">INR-V: A Continuous Representation Space for Video-based Generative Tasks</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Vinay Namboodiri, C V Jawahar, <i><b>TMLR 2022</b></i><a target="_blank"  class="tab_paper" href="https://openreview.net/forum?id=aIoEkwc2oB&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">OpenReview</a><a target="_blank" class="tab_paper" href="https://skymanaditya1.github.io/INRV/">project page</a><a target="_blank" class="tab_paper" href="https://youtu.be/ViIwnu5vcck">video</a></div>
+		<span class="research-text">
+		We propose INR-V, a video representation network that learns a continuous space for video-based generative tasks. INR-V parameterizes videos using implicit neural representations (INRs), a multi-layered perceptron that predicts an RGB value for each input pixel location of the video.
+		</span>
+	</div>
+</div>
 
-**Natural Language Processing, Summarization**, <a href="/files/CMS___Synapse__V2.pdf" target="_blank">pdf</a>, 2020
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/faceoff.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">FaceOff: A Video-to-Video Face Swapping System</div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i><a target="_blank" class="tab_paper"  href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.html">project page</a><a target="_blank" class="tab_paper"  href="https://bipashasen.github.io/FaceOff">paper</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=3TCugwmMjzo&t=2s">video</a> </div>
+		<span class="research-text">
+		We introduce video-to-video (V2V) face-swapping, a novel task of face-swapping that can preserve (1) the identity and expressions of the source (actor) face video and (2) the background and pose of the target (double) video. We propose FaceOff, a V2V face-swapping system that operates by learning a robust blending operation to merge two face videos following the constraints above. 
+		</span>
+	</div>
+</div>
 
-<span class="research-img">
-	<img src="/images/pn.png" width="600px">
-</span>
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/lipreading.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale</div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i><a target="_blank" class="tab_paper" class="tab_paper" href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_Towards_MOOCs_for_Lipreading_Using_Synthetic_Talking_Heads_To_Train_WACV_2023_paper.html">paper</a></div>
+		<span class="research-text">
+		We propose an end-to-end automated pipeline to a lipreading training platform using state-of-the-art talking heading video generator networks, text-to-speech models, and computer vision techniques. We then perform an extensive human evaluation using carefully thought out lipreading exercises to validate the quality of our designed platform against the existing lipreading platforms. 
+		</span>
+	</div>
+</div>
 
-<span class="research-text">
-We propose a novel technique of contextual meeting segmentation for the task of meeting summarization. Unlike documents, meetings span over multiple topics spread throughout the course of the meeting. In order to capture the true summary of the meeting, it is important to capture the summary of each of the topics present in the meeting. The segmentation approaches existing today ignore the fact that sentences belonging to the same context can be continuous or non-continuous in nature. We solve the problem of contextual meeting segmentation using pointer mechanism to extract the related sentences from a meeting transcription without assuming that the sentences are consecutive in nature. <i class="underline">Currently we are extending this approach for end-to-end contextual meeting summarization.</i></span>
 
-# Past
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/ocrtoc.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Approaches and Challenges in Robotic Perception for Table-top Rearrangement and Planning</div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Shankara Narayanan V*, Vishal Reddy Mandadi*, Brojeshwar Bhowmick, K Madhava Krishna, <i><b>Arxiv 2022</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2205.04090">paper</a><a target="_blank" class="tab_paper" href="https://youtu.be/GrOXEmwzxlA">video</a></div>
+		<div class="win"><img src="images/trophy-icon.webp" width="10px">3rd in <a class="prize" href="https://rpal.cse.usf.edu/rgmc_icra2022/">ICRA 2022 OCRTOC</a></div>
+		<span class="research-text">
+		Table-top Rearrangement and Planning is a challenging problem that relies heavily on an excellent perception stack. We present a comprehensive overview and discuss the different challenges associated with the perception module. This work is a result of our extensive involvement in the ICRA 2022 OCRTOC Challenge.
+		</span>
+	</div>
+</div>
 
-## Anterior Segment Imaging - MIT Media Lab's Rethinking Engineering Design Execution
-
-**Anomaly detection, Eye-Care, Hardware**, 2015
-
-<span class="research-text">
-Eye based health care has had limited access to remote and economically challenges communities due to the expensive and bulky device called slit lamps being used for various eye examinations. In an effort against the mentioned challenges, we built a mobile low-cost wearable solid state replacement device. The device has no moving parts and is capable of capturing the anterior segment of the eye from two different angles which is later used for 3D reconstuction. An anomany detection algorithm then adds a preliminary examination on the reconstructed anterior segment of the eye to identify any abnormalities.  </span>
-
-## Cloud Based Group Oriented File Sharing Network - theBhaad.com
-
-**Full-Stack**, <a href="https://www.youtube.com/watch?v=S9Oq2n2rIaY" target="_blank">video</a>, 2013
-
-<span class="research-img">
-	<img src="/images/thebhaad.jpg" style="height:300px">
-</span>
-
-<span class="research-text">
-The development of the portal was undertaken in order to have an one stop virtual environment that compliments the real environment interactions between students and professors. The idea was build a file-sharing <i>network</i> instead of just a portal. The portral had an operating system like user-interface for easy operation with an advanced search features across groups, contacts, within groups, implemented auto-sorting techniques that sorted the documents by their importance at any given point of time, discussion forum, request and push-notification features. <i class="underline">This was extensively used by my undergraduate institution at a time having on an average of 5000 active users per month. I was awarded Best Enterpreneur by my institue for my work on thebhaad.com</i></span>
-
-## SmartShuffle - This is what I wanted to hear!
-
-**Reinforcement Learning, Collaborative Recommendation**, (undergraduate project), 2016
-
-<span class="research-text">
-A prediction model that could predict the songs that a user would want toplay next without requiring his intervention based on the current history. The model works by detecting similarity between songs to learn a predictive model without using metadata such as sound-wave, song-name, genre etc. The idea was that similarity between two songs is quite subjective and differs heavily between individuals when the set of available songs is limited. Two songs with completely different meta properties can be perceived similar by an individual. For the prediction model, I employed an Ensemble Model of Reinforcement Learning bundled with unsupervised Learning algorithms taking the user play history as the input. The skip rate and the duration of the song played were used as reward to devise relationships.</span>
-
-## The bot will help you shop!
-
-**Reinforcment Learning**, (internship project), 2016
-
-<span class="research-text">
-During my internship at Microsoft, I worked on a virtual shop assistant whose responsibility was to proactively engage the users and assist them towards the task completion. From a a set of curated questions, the agent needed to learn the most efficient order of questions to ask the users in order to maximize the engagement and win rate. I worked on a framework developed by Microsoft Research Lab based on refinforcement learning called multi world testing and implemented the policy, reward to develop and train the model.</span>
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/personalized.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Personalized One-Shot Lipreading for an ALS Patient</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>BMVC 2021</b></i><a class="tab_paper" target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">paper</a><a target="_blank"  class="tab_paper" href="https://youtu.be/_famGVaem-8">video</a><a target="_blank"  class="tab_paper" href="http://bhaasha.iiit.ac.in/lipwav">portal</a></div>
+		<span class="research-text">
+		We propose a personalized network to lipread an ALS patient using only one-shot examples. Our approach significantly improves and achieves high top-5accuracy with 83.2% accuracy compared to 62.6% achieved by comparable methods for the patient. Apart from evaluating our approach on the ALS patient, we also extend it to people with hearing impairment relying extensively on lip movements to communicate.
+		</span>
+	</div>
+</div>

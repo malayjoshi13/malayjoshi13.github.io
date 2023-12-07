@@ -1,13 +1,14 @@
 # main links links
 main:
+  - title: "Work Experience"
+    url: /work-experience/
+
   - title: "Projects"
     url: /projects/
     
-  - title: "Blog"
-    url: /blog/
-
-  - title: "My Art"
-    url: /myart/
+  # will do it later,adding transformer's blog, etc  
+  # - title: "Blog"
+  #   url: /blog/
 
   - title: "CV"
-    url: /files/Resume.pdf
+    url: /files/MalayJoshi_Resume.pdf
