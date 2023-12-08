@@ -114,7 +114,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/Sanrakshan_gif.mp4">
+			<img src="https://malayjoshi13.github.io/images/Sanrakshan_gif.mp4">
 		</span>
 	</div>
 	<div class="right">
