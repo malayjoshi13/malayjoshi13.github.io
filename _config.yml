@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malay Joshi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Malay Joshi"
 description              : &description "AI Engineer at Wow Internet Labz"
