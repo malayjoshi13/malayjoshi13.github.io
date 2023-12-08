@@ -114,13 +114,13 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/teasers/faceoff.gif">
+			<img src="/images/Sanrakshan_gif.mp4">
 		</span>
 	</div>
 	<div class="right">
 		<div class="title">Sanrakshan: a virtual fence</div>
 		<div class="sub-title">Started in Jan 2020 <a target="_blank" class="tab_paper" href="https://malayjoshi13.github.io/files/Sanrakshan_Report.pdf">Project Report</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1eC4c6zvbNNxLtWwpwbPqL4ohY22w0u4Z/view?usp=sharing">Video of Phase1</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1s_1gYTDBr2nosnFjSVyBHP34kpsHunBV/view?usp=sharing">Video of Phase2</a> </div>
-		<div class="sub-title">Tech: add tech </div>		
+		<div class="sub-title">Tech: Electronics Design and Integrations, Microcontroller Programming, Power Management, Mechanical Design</div>		
 		<span class="research-text"> This project was done as part of SIH'2020 alongwith two other members (Abhay Jaiswal and Maitreyi) to propose an animal deterrent device which prevents wild animals to enter farms and destroy crops by use of “laser-LDR detection technology”. Working principle is to use time-of-blocking of laser light reaching LDR sensor for calculating height and width of object crossing this laser-based virtual fence to differentiates between humans and target animals (wild boar, deer, goat, buffalo and neelgayi).</span>
 	</div>
 </div>
