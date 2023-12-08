@@ -16,9 +16,31 @@ redirect_from:
 <br>&emsp;&emsp;&emsp;I was also a <b>Data Scientist at Microsoft</b>. I led the recommendation and suggestion team for the world's biggest enterprise-facing email client - Outlook. These features are used by more than 100 million users per month!
 <br>&emsp;&emsp;&emsp;<b>Creative Outlet.</b> I am a musician. I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also LOVE traveling and used to create travel vlogs and music covers on YouTube! My <b>brother</b> is an amazing pianist and has taken over the channel now: <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">Insen: Outdoor Pianist</a>. 
 
+
+I am a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. Prior to this, I received my Bachelor’s Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM).
+
+
+I am a Machine Learning Research Associate at Media and Data Science Research (MDSR) Lab, Adobe. I am broadly interested in computer vision and machine learning. During my time here, I have explored image editing, self-supervised learning, image segmentation and text-conditioned style transfer.
+In 2022, I graduated from IIT Delhi with a Bachelor's in Mathematics and Computing. My thesis project on "Deep Neural Network approximation for image denoising" was advised by Prof. Sivananthan Sampath. During the summer of 2021, I spent a wonderful time at Adobe Research working with Dr. Kuldeep Kulkarni on context-aware object insertion in images. Previously, I also had an amazing time at MPI-SWS working on program synthesis with Prof. Eva Darulova.
+
+
+Hi, I’m Akash! I’m currently a Data & Applied Scientist in the Ads team at Microsoft.
+I’m passionate about exploring new areas that can solve important real-world problems. I completed my B.Tech and M.Tech (Dual Degree) in Electrical Engineering from IIT Madras, graduating among the top 5% of students in my class. I worked under the guidance of Prof. Mitesh Khapra and Prof. B. Ravindran and published papers in top NLP conferences and journals such as TACL, ACL, and EMNLP. Previously, I interned with Microsoft, where my work on sponsored search led to a significant increase in revenue and user engagement in Bing and was published in KDD 2021.
+
+
+I earned my Master's in CS (awarded the MS Research award) in 2019 at Georgia Tech, where I was advised by Devi Parikh and worked on developing visual conversational agents. In grad school, I've had the opportunity to intern at NVIDIA (with Sanja Fidler), Salesforce (with Nikhil Naik), and Curai (with Anitha Kannan).
+
+
 <h3>Research Interest</h3>
 
-<span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
+<span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!
+
+My current research interests lie at the intersection of Energy Systems and Technology for Emerging Markets broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.
+
+> __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__
+
+Research Interests: My research interests lie broadly at the intersection of computer vision and robotics. My goal is to integrate representation learning with task & motion planning to achieving general-purpose robot autonomy.
+</span>
 
 
 <div class="recent_updates">Updates</div>
