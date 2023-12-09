@@ -82,7 +82,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/talkinghand.gif">
+			<img src="/images/talkinghand_gif.gif">
 		</span>
 	</div>
 	<div class="right">
