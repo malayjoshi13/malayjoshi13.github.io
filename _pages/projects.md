@@ -12,7 +12,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">Understanding Transformer</div>
-		<div class="sub-title">Started on Nov 2023<a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/project_name">project page</a></div>
+		<div class="sub-title">Started on Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/project_name">project page</a></div>
 		<div class="sub-title">Tech: tell here </div>		
 		<span class="research-text">tell about project</span>
 	</div>
@@ -42,7 +42,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">Pehchaan</div>
-		<div class="sub-title">Started in July 2022 <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
+		<div class="sub-title">Started in July 2022 | <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
 		<div class="sub-title">Tech: add tech </div>		
 		<span class="research-text"> Representative of work done at DRDO.....</span>
 	</div>
@@ -72,7 +72,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">News-Shell</div>
-		<div class="sub-title">Started in July 2022 <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
+		<div class="sub-title">Started in July 2022 | <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
 		<div class="sub-title">Tech: add tech </div>		
 		<span class="research-text"> tell about project....extension of work "ShortRead" (add link of ShortRead project) started in Dec 2021.......</span>
 	</div>
@@ -87,7 +87,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">TalkingHand: Sign Language Converter</div>
-		<div class="sub-title">Started in May 2021 <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
+		<div class="sub-title">Started in May 2021 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/TalkingHand">Project Page</a></div>
 		<div class="sub-title">Tech: Computer Vision, Transfer-Learning, Python, TensorFlow </div>		
 		<span class="research-text"> TalkingHand is a Computer Vision and Deep Learning-based Sign Language to Text Conversion System which with the help of fine-tuned convolutional neural network of VGG16, classifies and converts the hand gestures made by the user into corresponding text-based labels.	Custom dataset of about 4000 images each for 7 labels has been collected for fine-tuning the CNN model. The objective of this system is to take first step towards developing a solution to help people with speaking and hearing disability to communicate with other people.
 
@@ -104,9 +104,9 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">Describer: Image Captioning System</div>
-		<div class="sub-title">Started on Apr 2020 | <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
+		<div class="sub-title">Started on Apr 2020 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Describer">Project Page</a></div>
 		<div class="sub-title">Tech: Computer Vision, NLP, Transfer-Learning, Flask, Python, TensorFlow </div>		
-		<span class="research-text">Describer is an Image Captioning System which generates textual captions describing the images fed to it. This system consists of CNN model (built from scratch) and LSTM model. <b>InceptionV3</b> model is used to generate image embeddings and <b>GloVe</b> 200-dim model is used to generate embeddings of captions. Whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.47 on test dataset. The objective of this system is to take first step towards developing a solution to help visually impaired people understands image-based information on their electronic devices and in their surroundings.
+		<span class="research-text">Describer is an Image Captioning System which generates textual captions describing the images fed to it. This system consists of CNN model (built from scratch) and LSTM model. InceptionV3 model is used to generate image embeddings and GloVe 200-dim model is used to generate embeddings of captions. Whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.47 on test dataset. The objective of this system is to take first step towards developing a solution to help visually impaired people understands image-based information on their electronic devices and in their surroundings.
 		</span>
 	</div>
 </div>
