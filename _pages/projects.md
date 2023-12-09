@@ -82,14 +82,16 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/teasers/faceoff.gif">
+			<img src="/images/talkinghand.gif">
 		</span>
 	</div>
 	<div class="right">
 		<div class="title">TalkingHand: Sign Language Converter</div>
 		<div class="sub-title">Started in May 2021 <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
-		<div class="sub-title">Tech: add tech </div>		
-		<span class="research-text"> tell about project	</span>
+		<div class="sub-title">Tech: Computer Vision, Transfer-Learning, Python, TensorFlow </div>		
+		<span class="research-text"> TalkingHand is a Computer Vision and Deep Learning-based Sign Language to Text Conversion System which with the help of fine-tuned convolutional neural network of VGG16, classifies and converts the hand gestures made by the user into corresponding text-based labels.	Custom dataset of about 4000 images each for 7 labels has been collected for fine-tuning the CNN model. The objective of this system is to take first step towards developing a solution to help people with speaking and hearing disability to communicate with other people.
+
+</span>
 	</div>
 </div>
 
@@ -104,7 +106,7 @@ author_profile: true
 		<div class="title">Describer: Image Captioning System</div>
 		<div class="sub-title">Started on Apr 2020 | <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
 		<div class="sub-title">Tech: Computer Vision, NLP, Transfer-Learning, Flask, Python, TensorFlow </div>		
-		<span class="research-text">Describer is an image captioning system which generates textual captions describing the images fed to it. This system consists of CNN model (built from scratch) and LSTM model. <b>InceptionV3</b> model is used to generate image embeddings and <b>GloVe</b> 200-dim model is used to generate embeddings of captions. Whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.47 on test dataset.
+		<span class="research-text">Describer is an Image Captioning System which generates textual captions describing the images fed to it. This system consists of CNN model (built from scratch) and LSTM model. <b>InceptionV3</b> model is used to generate image embeddings and <b>GloVe</b> 200-dim model is used to generate embeddings of captions. Whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.47 on test dataset. The objective of this system is to take first step towards developing a solution to help visually impaired people understands image-based information on their electronic devices and in their surroundings.
 		</span>
 	</div>
 </div>
