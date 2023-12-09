@@ -57,7 +57,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">OligoFinder: Bio-NER System to Extract Oligonucleotide Entities</div>
-		<div class="sub-title">Started in June 2022 | <a target="_blank" class="tab_paper"  href="https://summerofcode.withgoogle.com/programs/2022/projects/5b96vIqa">project page</a></div>
+		<div class="sub-title">Started in June 2022 | <a target="_blank" class="tab_paper"  href="https://summerofcode.withgoogle.com/programs/2022/projects/5b96vIqa">Project Page</a></div>
 		<div class="sub-title">Tech: Pre-trained Language Model (BioBERT), Named Entity Recognition (NER), Python, TensorFlow, Google Cloud Platform (GCP), TensorBoard, FastAPI</div>		
 		<span class="research-text">Methods to extract textual-references of Oligonucleotide have remained limited to being time-consuming manual process with inability to generalize to newer variations. To address these limitations, OligoFinder is developed as part of Google Summer of Code'22 program at EMBL-EBI. It is a scalable and semi-automated Bio-NER system for identifying and extracting Oligonucleotide mentions along with related data from Biomedical research paper(s).</span>
 	</div>
