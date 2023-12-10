@@ -99,14 +99,14 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/teasers/faceoff.gif">
+			<img src="/images/describer_gif.gif">
 		</span>
 	</div>
 	<div class="right">
 		<div class="title">Describer: Image Captioning System</div>
 		<div class="sub-title">Started on Apr 2020 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Describer">Project Page</a></div>
 		<div class="sub-title">Tech: Computer Vision, NLP, Transfer-Learning, Flask, Python, TensorFlow </div>		
-		<span class="research-text">Describer is an Image Captioning System which generates textual captions describing the images fed to it. This system consists of CNN model (built from scratch) and LSTM model. InceptionV3 model is used to generate image embeddings and GloVe 200-dim model is used to generate embeddings of captions. Whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.47 on test dataset. The objective of this system is to take first step towards developing a solution to help visually impaired people understands image-based information on their electronic devices and in their surroundings.
+		<span class="research-text">Describer is an Image Captioning System which generates textual captions describing the images fed to it. This system consists of CNN model (built from scratch) and LSTM model. InceptionV3 model is used to generate image embeddings and GloVe 200-dim model is used to generate embeddings of captions. Whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.79 on test dataset. The objective of this system is to take first step towards developing a solution to help visually impaired people understands image-based information on their electronic devices and in their surroundings.
 		</span>
 	</div>
 </div>
