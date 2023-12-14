@@ -7,14 +7,14 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/teasers/faceoff.gif">
+			<img src="/images/NMT_gif.gif">
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">Understanding Transformer</div>
-		<div class="sub-title">Started on Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/project_name">project page</a></div>
-		<div class="sub-title">Tech: tell here </div>		
-		<span class="research-text">tell about project</span>
+		<div class="title">Dissecting-Transformers: Attempt to understand and use Transformers in-depth</div>
+		<div class="sub-title">Started on Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Understanding-Transformer">Project Page for Project1</a> | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/NeuralMachineTranslator">Project Page for Project2</a></div>
+		<div class="sub-title">Tech: Language Models, Pytorch, Python, Tensorboard, HuggingFace, Streamlit, Docker</div>		
+		<span class="research-text">First work was around building vanilla Transformer from scratch and training it on iitb-english-hindi's sub-set of test datatset for the task of Machine Translation. Got BLEU score of 0.61, Character Error Rate of 0.16 and Word Error Rate of 0.35, Train loss of 1.50 and Val loss of 1.53. Second work was around building Machine Translation web-app using SoTA Encoder-Decoder-based Pre-trained Language Models for getting hands-on experience of working with LMs on a real-case at production level.</span>
 	</div>
 </div>
 
@@ -64,7 +64,7 @@ author_profile: true
 </div>
 
 
-<div class="research-block">
+<!-- <div class="research-block">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/teasers/faceoff.gif">
@@ -76,7 +76,7 @@ author_profile: true
 		<div class="sub-title">Tech: add tech </div>		
 		<span class="research-text"> tell about project....extension of work "ShortRead" (add link of ShortRead project) started in Dec 2021.......</span>
 	</div>
-</div>
+</div> -->
 
 
 <div class="research-block">
