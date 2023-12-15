@@ -12,7 +12,7 @@ redirect_from:
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P0DmcjPhTVQDSVsO6eLpfLlblpD7aYEdFi8dEehI1TI&cl=ffffff&w=a"></script>
 </div>
 
-<span class="small_font">👋🏼 Hello there, I am Malay Joshi. I am an <b>AI Engineer at Wow Internet Labz</b> located at Bangalore, India. Here I am working with teams across multiple domains on different stages of development of <b>GenAI-based (vision and text) products</b> for some of the most prominent enterprises around the globe. 
+<span class="small_font"> 👋🏼 Hello there, I am Malay Joshi. I am a <b>Computer Vision and NLP practitioner</b>, currently working as an <b>AI Engineer at Wow Internet Labz</b>, Bangalore, India with teams across multiple domains on different stages of development of <b>GenAI-based (vision and text) products</b> for some of the most prominent enterprises around the globe.
 
 In 2023, I received my Bachelor’s Degree in Electronics and Communication Engineering from AKGEC, Uttar Pradesh. My thesis project on <b>“DRISHTI: Visual Navigation Assistant for Visually Impaired”</b> was advised by Prof. Suvarna Mujumdar and Prof. Himanshu Tripathi and supported by <b>FabLab, AKGEC Campus</b>.
 
