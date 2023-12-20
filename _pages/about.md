@@ -20,7 +20,7 @@ During the summers of 2022, I spent a wonderful time by being part of <b>Google 
 
 <h3>Research Interest</h3>
 
-<span class="small_font">My current research interests lie at the intersection of <b>Computer Vision and Natural Language Processing & Generation</b>. I really love to see technology from its feasibility and impact while being used as a product/system by the users. Now I am gradually moving towards theoretical aspect of technology as well to make it more personalized, efficient and adopted by mass. My goal is to keep this exploration of knowing technology in-depth and use it to develop much better visual and textual information processing products/solutions which could be used to <b>assist and entertain</b> the society!</span>
+<span class="small_font">My current research interests lie at the intersection of <b>Computer Vision and Natural Language Processing (Traditional technques, Transformers, LLMs)</b>. I really love to see technology from its feasibility and impact while being used as a product/system by the users. Now I am gradually moving towards theoretical aspect of technology as well to make it more personalized, efficient and adopted by mass. My goal is to keep this exploration of knowing technology in-depth and use it to develop much better visual and textual information processing products/solutions which could be used to <b>assist and entertain</b> the society!</span>
 
 > __*I am currently looking for opportunities to pursue research and development in a similar field with applications open to enterprise-level conversational systems, marketing campaigns content generators, sales intelligence solutions, and enterprise-level productivity tools.*__
 
