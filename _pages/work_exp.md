@@ -1,6 +1,6 @@
 ---
 #layout: archive
-permalink: /work-experience/
+permalink: /work_exp/
 author_profile: true
 ---
 
