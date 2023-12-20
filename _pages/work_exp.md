@@ -11,10 +11,13 @@ author_profile: true
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">Dissecting-Transformers: Attempt to understand and use Transformers in-depth</div>
+		<div class="title">Wow Labz, Bangalore, Karnatka, India | AI Developer</div>
 		<div class="sub-title">Started on Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Understanding-Transformer">Project Page for Project1</a> | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/NeuralMachineTranslator">Project Page for Project2</a></div>
 		<div class="sub-title">Tech: Language Models, Pytorch, Python, Tensorboard, HuggingFace, Streamlit, Docker</div>		
-		<span class="research-text">First work was around building vanilla Transformer from scratch and training it on iitb-english-hindi's sub-set of test datatset for the task of Machine Translation. Got BLEU score of 0.61, Character Error Rate of 0.16 and Word Error Rate of 0.35, Train loss of 1.50 and Val loss of 1.53. Second work was around building Machine Translation web-app using SoTA Encoder-Decoder-based Pre-trained Language Models for getting hands-on experience of working with LMs on a real-case at production level.</span>
+		<span class="research-text"><ul>
+		<li> Experimenting with text-to-image models to generate images with text in specific font styles and image-to-video models to generate visual storyboards based on a given story/ context.</li> 
+		<li> Worked on a client project to develop a prompt-tuned LLM-based bot to reply to Tweets about ICC Men's Cricket World Cup’23 in a positive and personality-specific tonality. Curated knowledge base to generate factful replies.</li> 
+		<li> Developed an LLM-finetuned and RAG-based Law-specific web application for a client. Also worked on the automated generation of law-based document templates. Deployed as a microservices on AWS Platform.</li></ul></span>
 	</div>
 </div>
 
