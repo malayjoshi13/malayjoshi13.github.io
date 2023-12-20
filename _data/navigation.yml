@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Work Experience"
-    url: /work-experience/
+    url: /work_exp/
 
   - title: "Projects"
     url: /projects/
