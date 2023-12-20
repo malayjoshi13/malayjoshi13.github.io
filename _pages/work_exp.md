@@ -7,124 +7,91 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/NMT_gif.gif">
+			<img src="/images/wowlabz_logo.jpeg">
 		</span>
 	</div>
 	<div class="right">
 		<div class="title">Wow Labz, Bangalore, Karnatka, India | AI Developer</div>
-		<div class="sub-title">Started on Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Understanding-Transformer">Project Page for Project1</a> | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/NeuralMachineTranslator">Project Page for Project2</a></div>
-		<div class="sub-title">Tech: Language Models, Pytorch, Python, Tensorboard, HuggingFace, Streamlit, Docker</div>		
+		<div class="sub-title">Sept 2023 - Present</div>
 		<span class="research-text"><ul>
-		<li> Experimenting with text-to-image models to generate images with text in specific font styles and image-to-video models to generate visual storyboards based on a given story/ context.</li> 
-		<li> Worked on a client project to develop a prompt-tuned LLM-based bot to reply to Tweets about ICC Men's Cricket World Cup’23 in a positive and personality-specific tonality. Curated knowledge base to generate factful replies.</li> 
-		<li> Developed an LLM-finetuned and RAG-based Law-specific web application for a client. Also worked on the automated generation of law-based document templates. Deployed as a microservices on AWS Platform.</li></ul></span>
+		<li> Experimenting with text-to-image models to generate images with <b>text in specific font styles</b> and image-to-video models to generate <b>visual storyboards</b> based on a given story/ context.</li> 
+		<li> Worked on a client project to develop a <b>prompt-engineered LLM-based<b> Twitter bot for ICC Men’s Cricket World Cup’23 to reply in a <b>positive and personality-specific tonality</b>. Curated <b>knowledge base</b> to make replies factful.</li> 
+		<li> Developed an <b>LLM-finetuned and RAG-based</b> chatbot to answer legal queries. Also worked on the feature of <b>automated legal document generation</b>. Deployed as a <b>microservice</b> on the AWS Platform.</li></ul></span>
 	</div>
 </div>
-
 
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/drishti_gif.gif">
+			<img src="/images/dubverse_logo.jpeg">
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">Drishti: Visual Navigation Assistant for Visually Impaired</div>
-		<div class="sub-title">Started on Sept 2022 | <a target="_blank" class="tab_paper"  href="https://iopscience.iop.org/article/10.1088/1742-6596/2570/1/012032">Paper</a> | <a target="_blank" class="tab_paper"  href="/files/Drishti_Report.pdf">Project Report</a> </div>
-		<div class="sub-title">Tech: Computer Vision, Transfer Learning, Text-to-Speech, Google Cloud Platform (GCP), Python, TensorFlow, TensorBoard, Electronics Design and Integrations, Microcontroller Programming, Power Management, Mechanical Design </div>		
-		<span class="research-text">Despite the development of numerous assistive devices over the years; due to various limitations, numerous visually impaired individuals in India still don’t have a navigational assistive tool/device. After reviewing related literature, informal discussions with visually impaired individuals, and a formal survey conducted at Raghuveer Singh Memorial Blind Trust in Shahdara (Delhi), my comprehension of this problem significantly improved. To address it, I developed an initial-stage low-cost eye-wear assistive device and conducted a test with a group of visually impaired participants. This work started as part of my Final-year College Project, and I am actively working to improve this solution.</span>
+		<div class="title">Dubverse.ai, Gurgaon, India | DL Engineering Intern</div>
+		<div class="sub-title">January 2023 - July 2023</div>
+		<span class="research-text"><ul>
+		<li> Optimized the deployed <b>TTS Cross-Lingual Voice Cloning</b> model by <b>plotting graphs</b> between transcript and spectrogram-energy-frequency of generated speech for locating misaligned portions in generated speech </li> 
+		<li> Added language-specific and RegEx rules to lower Phoneme Error Rate by <b>9%</b>.</li> 
+		<li> Scaled the optimized model to <b>4 new languages </b> by training on <b>200+ hours</b> of data over Google Cloud Platform.</li></ul></span>
 	</div>
 </div>
-
 
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/Pehchaan_gif.gif">
+			<img src="/images/gsoc_logo.png">
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">Pehchaan</div>
-		<div class="sub-title">Started in July 2022 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Pehchaan">Project Page</a></div>
-		<div class="sub-title">Tech: Deep Learning, Face detection, Face recognition, Tensorflow, Streamlit</div>		
-		<span class="research-text"> Pehchaan is a one-shot labeling tool to identify the name of the person present in an image. It makes use of pre-trained Face detection model, Face alignment model, Face recognition model and algorithms to keep checking if the database is modified and doing one-to-one matching between feature representation of image input by user and image(s) in database. This tool is an attempt to automate the process of labeling the people present in photographs. In it's absence, it's a very time-consuming and labor-intensive task to manually label people present in a large stock of photographs and without these labels, these significant photographs are mere pieces of memory/space-consuming items. This work is representative of work done as part of my internship at DESIDOC-DRDO (New Delhi, India).</span>
+		<div class="title">Google Summer of Code' 22 @ GAA, EMBL-EBI, United Kingdom | AI Developer </div>
+		<div class="sub-title">June 2022 - September 2022 | <a target="_blank" class="tab_paper"  href="https://summerofcode.withgoogle.com/programs/2022/projects/5b96vIqa">Project Page</a></div>
+		<span class="research-text"><ul>
+		<li> Reduced data curation time by <b>40%</b> by developing <b>OligoFinder</b>, a <b>BioBERT</b>-based module fine-tuned for the task of <b>Name Entity Recognition</b> to extract Oligonucleotides from research papers automatically. </li> 
+		<li> Developed active-learning pipeline using RegEx, NLTK and BOWs to curate dataset of <b>7000 pairs of sentence</b></li>
+		<li>The resultant fine-tuned model achieved a Precision of <b>0.92</b>, Recall of <b>0.93</b> and F1 of <b>0.92</b>.</li></ul></span>
 	</div>
 </div>
-
 
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/gsoc_gif.gif">
+			<img src="/images/wowlabz_logo.jpeg">
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">OligoFinder: Bio-NER System to Extract Oligonucleotide Entities</div>
-		<div class="sub-title">Started on June 2022 | <a target="_blank" class="tab_paper"  href="https://summerofcode.withgoogle.com/programs/2022/projects/5b96vIqa">Project Page</a></div>
-		<div class="sub-title">Tech: Pre-trained Language Model (BioBERT), Named Entity Recognition (NER), Python, TensorFlow, Google Cloud Platform (GCP), TensorBoard, FastAPI</div>		
-		<span class="research-text">Methods to extract textual references of oligonucleotides have remained limited to being a time-consuming manual process with the inability to generalize to newer variations. To address these limitations, OligoFinder is developed as part of the Google Summer of Code'22 program at EMBL-EBI. It is a scalable and semi-automated Bio-NER system for identifying and extracting Oligonucleotide mentions and related data from Biomedical research papers.</span>
+		<div class="title">Wow Labz, Bangalore, Karnatka, India | Data Science Intern  </div>
+		<div class="sub-title">January 2022 - July 2022</div>
+		<span class="research-text"><ul>
+		<li> Implemented a <b>GAN-based Lip-synching</b> system that creates lip movements based on dubbed audio. The model is tuned on a custom-curated Indian speakers dataset to achieve a Lip Sync Error Distance of <b>6.512</b>.</li> 
+		<li> Designed a Flask-based <b>Two-staged Resume Parser</b> that uses <b>YOLOv5</b> and <b>spaCyV3's RoBERTa</b> to extract <b>10 information</b> with overall test accuracy of <b>53.97%</b>. Scraped <b>~4000 resumes</b> for training and val using Beautiful Soup.</li></ul></span>
 	</div>
 </div>
-
-
-<!-- <div class="research-block">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/teasers/faceoff.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">News-Shell</div>
-		<div class="sub-title">Started in July 2022 | <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
-		<div class="sub-title">Tech: add tech </div>		
-		<span class="research-text"> tell about project....extension of work "ShortRead" (add link of ShortRead project) started in Dec 2021.......</span>
-	</div>
-</div> -->
-
 
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/talkinghand_gif.gif">
+			<img src="/images/drdo_logo.png">
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">TalkingHand: Sign Language Converter</div>
-		<div class="sub-title">Started in May 2021 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/TalkingHand">Project Page</a></div>
-		<div class="sub-title">Tech: Computer Vision, Transfer-Learning, Python, TensorFlow </div>		
-		<span class="research-text"> TalkingHand is a Computer Vision and Deep Learning-based Sign Language to Text Conversion System which with the help of fine-tuned CNN of VGG16, classifies and converts the hand gestures made by the user into corresponding text-based labels.	Custom dataset of about 4000 images each for 6 labels has been collected for fine-tuning the CNN model using a combination of background subtraction (BackgroundSubtractorMOG2) and color threshold techniques so that data collected will have a lower bias due to the shape & colour of user's hand making the gesture and altering lightning conditions. Got following results after fine-tuning: train loss: 0.0188, train accuracy: 0.9965, validation loss: 0.0913 and validation accuracy: 0.9888. The objective of this system is to take first step towards developing a solution to help people with speaking and hearing disability to communicate with other people.
-
-</span>
+		<div class="title">DRDO, New Delhi, India | Data Science Intern </div>
+		<div class="sub-title">June 2022 - July 2022</div>
+		<span class="research-text"><ul>
+		<li> Developed a <b>Person Auto-tagging<b> system that labels renowned personalities across unlabeled photographs using <b>MTCNN<b> and <b>FaceNet</b>. Achieved <b>94%</b> and <b>98%</b> accuracy in face detection and recognition tasks, respectively. </li></ul></span>
 	</div>
 </div>
-
 
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/describer_gif.gif">
+			<img src="/images/erevna_logo.jpeg">
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">Describer: Image Captioning System</div>
-		<div class="sub-title">Started on Apr 2020 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Describer">Project Page</a></div>
-		<div class="sub-title">Tech: Computer Vision, NLP, Transfer-Learning, Flask, Python, TensorFlow </div>		
-		<span class="research-text">Describer is an Image Captioning System which generates textual captions describing the images fed to it. This system consists of CNN model (built from scratch) and LSTM model. InceptionV3 model is used to generate image embeddings and GloVe 200-dim model is used to generate embeddings of captions. Whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.79 on test dataset. The objective of this system is to take first step towards developing a solution to help visually impaired people understands image-based information on their electronic devices and in their surroundings.
-		</span>
-	</div>
-</div>
-
-
-<div class="research-block">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/Sanrakshan_gif.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">Sanrakshan: Animal Deterrent Device</div>
-		<div class="sub-title">Started on Jan 2020 | <a target="_blank" class="tab_paper" href="https://malayjoshi13.github.io/files/Sanrakshan_Report.pdf">Project Report</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1eC4c6zvbNNxLtWwpwbPqL4ohY22w0u4Z/view?usp=sharing">Video of Phase1</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1s_1gYTDBr2nosnFjSVyBHP34kpsHunBV/view?usp=sharing">Video of Phase2</a> </div>
-		<div class="sub-title">Tech: Electronics Design and Integrations, Microcontroller Programming, Power Management, Mechanical Design</div>		
-		<span class="research-text"> Farmers of Uttarakhand face the problem of crop destruction caused by wild animals. To address the limitations of existing solutions, we propose Sanrakshan, an animal deterrent device which prevents wild animals from destroying crops by use of "Laser-LDR Detection Technology". This solution works on the principle of using time-of-blocking of laser light reaching the LDR sensor to differentiate between humans and target animals. This work results from extensive involvement in the SIH'2020 competition with two other team members, Abhay Jaiswal and Maitreyi.</span>
+		<div class="title"> Erevna Enterprises Pvt. Ltd., Uttar Pradesh, India | Machine Learning Intern </div>
+		<div class="sub-title">January 2021 - February 2021</div>
+		<span class="research-text"><ul>
+		<li> Integrated face recognition-based <b>Automated Connection Invite Sender</b> feature to <a target="_blank" class="tab_paper"  href="https://gullu.vercel.app/"> <b>Gullu</b></a>, a social mobile application focused on traveller communities.</li>
+		<li>Reduced the average time spent earlier by a user in sending friend requests by <b>53%</b> by replacing it with an automatic search for a person <b>based on their selfie</b> and automatic sending of a connection request over the platform.</li></ul></span>
 	</div>
 </div>
