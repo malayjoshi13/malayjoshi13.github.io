@@ -7,7 +7,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/wowlabz_logo.jpeg">
+			<img src="/images/wowlabz_gif.gif">
 		</span>
 	</div>
 	<div class="right">
@@ -23,7 +23,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/dubverse_logo.jpeg">
+			<img src="/images/dubverse_gif.gif">
 		</span>
 	</div>
 	<div class="right">
@@ -39,7 +39,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/gsoc_logo.png">
+			<img src="/images/gsoc.gif">
 		</span>
 	</div>
 	<div class="right">
@@ -55,7 +55,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/wowlabz_logo.jpeg">
+			<img src="/images/wowlabz_gif.gif">
 		</span>
 	</div>
 	<div class="right">
@@ -70,7 +70,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/drdo_logo.png">
+			<img src="/images/drdo_gif.gif">
 		</span>
 	</div>
 	<div class="right">
@@ -84,7 +84,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/erevna_logo.jpeg">
+			<img src="/images/erevna_gif.gif">
 		</span>
 	</div>
 	<div class="right">
