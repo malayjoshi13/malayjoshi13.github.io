@@ -15,7 +15,7 @@ author_profile: true
 		<div class="sub-title">Sept 2023 - Present</div>
 		<span class="research-text"><ul>
 		<li> Experimenting with text-to-image models to generate images with <b>text in specific font styles</b> and image-to-video models to generate <b>visual storyboards</b> based on a given story/ context.</li> 
-		<li> Worked on a client project to develop a <b>prompt-engineered LLM-based<b> Twitter bot for ICC Men’s Cricket World Cup’23 to reply in a <b>positive and personality-specific tonality</b>. Curated <b>knowledge base</b> to make replies factful.</li> 
+		<li> Worked on a client project to develop a <b>prompt-engineered LLM-based</b> Twitter bot for ICC Men’s Cricket World Cup’23 to reply in a <b>positive and personality-specific tonality</b>. Curated <b>knowledge base</b> to make replies factful.</li> 
 		<li> Developed an <b>LLM-finetuned and RAG-based</b> chatbot to answer legal queries. Also worked on the feature of <b>automated legal document generation</b>. Deployed as a <b>microservice</b> on the AWS Platform.</li></ul></span>
 	</div>
 </div>
