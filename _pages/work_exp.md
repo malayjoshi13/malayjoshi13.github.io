@@ -39,7 +39,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/gsocc.gif">
+			<img src="/images/gsoccc.gif">
 		</span>
 	</div>
 	<div class="right">
