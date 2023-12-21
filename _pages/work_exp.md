@@ -77,7 +77,7 @@ author_profile: true
 		<div class="title">DRDO, New Delhi, India | Data Science Intern </div>
 		<div class="sub-title">June 2022 - July 2022</div>
 		<span class="research-text"><ul>
-		<li> Developed a <b>Person Auto-tagging</b> system that labels renowned personalities across unlabeled photographs using <b>MTCNN<b> and <b>FaceNet</b>. Achieved <b>94%</b> and <b>98%</b> accuracy in face detection and recognition tasks, respectively. </li></ul></span>
+		<li> Developed a <b>Person Auto-tagging</b> system that labels renowned personalities across unlabeled photographs using <b>MTCNN</b> and <b>FaceNet</b>. Achieved <b>94%</b> and <b>98%</b> accuracy in face detection and recognition tasks, respectively. </li></ul></span>
 	</div>
 </div>
 
