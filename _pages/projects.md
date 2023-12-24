@@ -12,7 +12,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">Dissecting-Transformers: Attempt to understand and use Transformers in-depth</div>
-		<div class="sub-title">Started on Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Understanding-Transformer">Project Page for Project1</a> | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/NeuralMachineTranslator">Project Page for Project2</a></div>
+		<div class="sub-title">Started in Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Understanding-Transformer">Project Page for Project1</a> | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/NeuralMachineTranslator">Project Page for Project2</a></div>
 		<div class="sub-title">Tech: Language Models, Pytorch, Python, Tensorboard, HuggingFace, Streamlit, Docker</div>		
 		<span class="research-text">The first work is around building a <b>vanilla Transformer from scratch</b> and training it on iitb-english-hindi's sub-set of test dataset for the task of Machine Translation. Got a BLEU score of <b>0.61</b>, Character Error Rate of <b>0.16</b>, Word Error Rate of <b>0.35</b>, Train loss of <b>1.50</b> and Val loss of <b>1.53</b>. The second work is around building a <b>Machine Translation web app</b> using SoTA Encoder-Decoder-based <b>Pre-trained Language Models</b> for gaining hands-on experience working with LMs on a real case at the production level.</span>
 	</div>
@@ -27,7 +27,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">Drishti: Visual Navigation Assistant for Visually Impaired</div>
-		<div class="sub-title">Started on Sept 2022 | <a target="_blank" class="tab_paper"  href="https://iopscience.iop.org/article/10.1088/1742-6596/2570/1/012032">Paper</a> | <a target="_blank" class="tab_paper"  href="/files/Drishti_Report.pdf">Project Report</a> </div>
+		<div class="sub-title">Started in Sept 2022 | <a target="_blank" class="tab_paper"  href="https://iopscience.iop.org/article/10.1088/1742-6596/2570/1/012032">Paper</a> | <a target="_blank" class="tab_paper"  href="/files/Drishti_Report.pdf">Project Report</a> </div>
 		<div class="sub-title">Tech: Computer Vision, Transfer Learning, Text-to-Speech, Google Cloud Platform (GCP), Python, TensorFlow, TensorBoard, Electronics Design and Integrations, Microcontroller Programming, Power Management, Mechanical Design </div>		
 		<span class="research-text">Despite the development of numerous assistive devices over the years, due to various limitations, numerous <b>visually impaired individuals</b> in India still don’t have a <b>navigational assistive tool/device</b>. After reviewing related literature, informal discussions with visually impaired individuals, and a formal survey conducted at Raghuveer Singh Memorial Blind Trust in Shahdara (Delhi), my comprehension of this problem significantly improved. To address it, I developed an initial-stage <b>low-cost eye-wear assistive device</b> and conducted a test with a group of visually impaired participants. This work started as <b>part of my Final-year College Project</b>, and I am actively working to improve this solution.</span>
 	</div>
@@ -57,7 +57,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">OligoFinder: Bio-NER System to Extract Oligonucleotide Entities</div>
-		<div class="sub-title">Started on June 2022 | <a target="_blank" class="tab_paper"  href="https://summerofcode.withgoogle.com/programs/2022/projects/5b96vIqa">Project Page</a></div>
+		<div class="sub-title">Started in June 2022 | <a target="_blank" class="tab_paper"  href="https://summerofcode.withgoogle.com/programs/2022/projects/5b96vIqa">Project Page</a></div>
 		<div class="sub-title">Tech: Pre-trained Language Model (BioBERT), Named Entity Recognition (NER), Python, TensorFlow, Google Cloud Platform (GCP), TensorBoard, FastAPI</div>		
 		<span class="research-text">Methods to extract textual references of oligonucleotides have remained limited to being a <b>time-consuming manual</b> process with the inability to generalize to newer variations. OligoFinder is developed as <b>part of the Google Summer of Code'22 program</b> at EMBL-EBI to address these limitations. It is a <b>scalable and semi-automated Bio-NER system</b> for identifying and extracting Oligonucleotide mentions and related data from Biomedical research papers.</span>
 	</div>
@@ -102,7 +102,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">Describer: Image Captioning System</div>
-		<div class="sub-title">Started on Apr 2020 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Describer">Project Page</a></div>
+		<div class="sub-title">Started in Apr 2020 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Describer">Project Page</a></div>
 		<div class="sub-title">Tech: Computer Vision, NLP, Transfer-Learning, Flask, Python, TensorFlow </div>		
 		<span class="research-text">Describer is an <b>Image Captioning System</b> that generates textual captions describing the images fed to it. This system consists of a <b>CNN model</b> (built from scratch) and an <b>LSTM model</b>. The <b>inceptionV3</b> model is used to generate image embeddings, and the <b>GloVe 200-dim model</b> is used to create embeddings of captions. The whole system is trained on Flickr8k data. Achieved BLEU-1 score of 0.79 on the test dataset. This system's objective is to take the first step towards developing a solution to help visually impaired people understand image-based information on their electronic devices and in their surroundings.
 		</span>
@@ -118,7 +118,7 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title">Sanrakshan: Animal Deterrent Device</div>
-		<div class="sub-title">Started on Jan 2020 | <a target="_blank" class="tab_paper" href="https://malayjoshi13.github.io/files/Sanrakshan_Report.pdf">Project Report</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1eC4c6zvbNNxLtWwpwbPqL4ohY22w0u4Z/view?usp=sharing">Video of Phase1</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1s_1gYTDBr2nosnFjSVyBHP34kpsHunBV/view?usp=sharing">Video of Phase2</a> </div>
+		<div class="sub-title">Started in Jan 2020 | <a target="_blank" class="tab_paper" href="https://malayjoshi13.github.io/files/Sanrakshan_Report.pdf">Project Report</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1eC4c6zvbNNxLtWwpwbPqL4ohY22w0u4Z/view?usp=sharing">Video of Phase1</a> <a target="_blank" class="tab_paper" href="https://drive.google.com/file/d/1s_1gYTDBr2nosnFjSVyBHP34kpsHunBV/view?usp=sharing">Video of Phase2</a> </div>
 		<div class="sub-title">Tech: Electronics Design and Integrations, Microcontroller Programming, Power Management, Mechanical Design</div>		
 		<span class="research-text"> Farmers of Uttarakhand face the problem of <b>crop destruction caused by wild animals</b>. To address the limitations of existing solutions, we propose Sanrakshan, an animal deterrent device which prevents wild animals from destroying crops by <b>use of "Laser-LDR Detection Technology"</b>. This solution works on the principle of <b>using time-of-blocking</b> of laser light reaching the LDR sensor to differentiate between humans and target animals. This work results from extensive involvement in the <b>SIH'2020 competition</b> with two other team members, Abhay Jaiswal and Maitreyi.</span>
 	</div>
