@@ -91,7 +91,7 @@ author_profile: true
 		<div class="title" style="font-size: 14px;"> <a href="https://erevna.in/" style="text-decoration: none; color: inherit;"> Erevna Enterprises, Uttar Pradesh, India </a>| Machine Learning Intern </div>
 		<div class="sub-title" style="font-size: 14px;">January 2021 - February 2021</div>
 		<span class="research-text"><ul>
-		<li style="text-align: justify; font-size: 14px;""> Integrated face recognition-based <b>Automated Connection Invite Sender</b> feature to <a href="https://gullu.vercel.app/"> <b>Gullu</b></a>, a social mobile application focused on traveller communities.</li>
+		<li style="text-align: justify; font-size: 14px;"> Integrated face recognition-based <b>Automated Connection Invite Sender</b> feature to <a href="https://gullu.vercel.app/"> <b>Gullu</b></a>, a social mobile application focused on traveller communities.</li>
 		<li style="text-align: justify; font-size: 14px;">Reduced the average time spent earlier by a user in sending friend requests by <b>53%</b> by replacing it with an automatic search for a person <b>based on their selfie</b> and automatic sending of a connection request over the platform.</li></ul></span>
 	</div>
 </div>
