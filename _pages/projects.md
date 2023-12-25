@@ -41,7 +41,7 @@ author_profile: true
 		</span>
 	</div>
 	<div class="right">
-		<div class="title" style="text-align: justify;">Pehchaan</div>
+		<div class="title" style="text-align: justify;">Pehchaan: Person Identifier for Auto-labeling Photographs</div>
 		<div class="sub-title" style="text-align: justify;">Started in July 2022 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Pehchaan">Project Page</a></div>
 		<span class="sub-title" style="text-align: justify; display: inline-block;">Tech: Deep Learning, Face detection, Face recognition, Tensorflow, Streamlit</span>		
 		<span class="research-text" style="text-align: justify; display: inline-block;"> Pehchaan is a <b>One-shot Labelling tool</b> to identify the name of the person present in an image. It uses pre-trained <b>Face detection</b> model, <b>Face alignment</b> model, <b>Face recognition</b> model and algorithms to keep checking if the database is modified and do <b>one-to-one matching</b> between feature representation of image input by the user and image(s) in the database. This tool attempts to automate labelling the people present in photographs. In its <b>absence, it's a very time-consuming and labour-intensive</b> task to label people present in a large stock of photographs manually, and without these labels, these significant photographs are mere pieces of memory/space-consuming items. This work represents work done as part of my internship at DESIDOC-DRDO (New Delhi, India).</span>
