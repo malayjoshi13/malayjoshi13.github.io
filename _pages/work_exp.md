@@ -13,6 +13,7 @@ author_profile: true
 	<div class="right">
 		<div class="title" style="font-size: 14px;"><a href="https://wowlabz.com/" style="text-decoration: none; color: inherit;" target="_blank">Wow Labz, Bangalore, Karnatka, India </a>| AI Developer</div>
 		<div class="sub-title" style="font-size: 14px;">Sept 2023 - Present</div>
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Large Language Model (GPT3.5), Prompt Engineering, RAG, LLM Finetuning, Chatbot, Text-to-image models, Image-to-video models, LangChain, Qdrant, AWS</span><br><br>			
 		<span class="research-text"><ul>
 		<li style="text-align: justify; font-size: 14px;"> Experimenting with text-to-image models to generate images with <b>text in specific font styles</b> and image-to-video models to generate <b>visual storyboards</b> based on a given story/ context.</li> 
 		<li style="text-align: justify; font-size: 14px;"> Worked on a client project to develop a <b>prompt-engineered LLM-based</b> Twitter bot for ICC Men’s Cricket World Cup’23 to reply in a <b>positive and personality-specific tonality</b>. Curated <b>knowledge base</b> to make replies factful.</li> 

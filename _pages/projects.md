@@ -11,9 +11,9 @@ author_profile: true
 		</span>
 	</div>
 	<div class="right">
-		<div class="title" style="font-size: 14px;">Dissecting-Transformers: In-depth understanding and using Transformers</div>
+		<div class="title" style="font-size: 14px;">Dissecting-Transformers: Understanding in-depth and using it for Neural Machine Translation task</div>
 		<div class="sub-title" style="font-size: 14px;">Started in Nov 2023 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Understanding-Transformer">Project1</a> | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/NeuralMachineTranslator">Project2</a></div><br>
-		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Vanilla Transformer, Pre-trained Language Models, Pytorch, Python, HuggingFace, Streamlit, Docker</span><br><br>			
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Vanilla Transformer, Pre-trained Language Models, Neural Machine Translation, Pytorch, Python, HuggingFace, Streamlit, Docker</span><br><br>			
 		<span class="research-text" style="text-align: justify; display: inline-block; line-height: 1.5; font-size: 14px;">The first work is around building a <b>vanilla Transformer from scratch</b> and training it on iitb-english-hindi's sub-set of test dataset for the task of Machine Translation. Got a BLEU score of <b>0.61</b>, Character Error Rate of <b>0.16</b>, Word Error Rate of <b>0.35</b>, Train loss of <b>1.50</b> and Val loss of <b>1.53</b>. The second work is around building a <b>Machine Translation web app</b> using SoTA Encoder-Decoder-based <b>Pre-trained Language Models</b> for gaining hands-on experience working with LMs on a real case at the production level.</span>
 	</div>
 </div>
@@ -58,25 +58,10 @@ author_profile: true
 	<div class="right">
 		<div class="title" style="font-size: 14px;">OligoFinder: Bio-NER System to Extract Oligonucleotide Entities</div>
 		<div class="sub-title" style="font-size: 14px;">Started in June 2022 | <a target="_blank" class="tab_paper"  href="https://summerofcode.withgoogle.com/programs/2022/projects/5b96vIqa">Project Page</a></div><br>
-		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Pre-trained Language Model (BioBERT), Named Entity Recognition (NER), Python, TensorFlow, Google Cloud Platform (GCP), FastAPI</span><br><br>			
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Pre-trained Language Model (BioBERT), Named Entity Recognition, Python, TensorFlow, Google Cloud Platform (GCP), FastAPI</span><br><br>			
 		<span class="research-text" style="text-align: justify; display: inline-block; line-height: 1.5; font-size: 14px;">Methods to extract textual references of oligonucleotides have remained limited to being a <b>time-consuming manual</b> process with the inability to generalize to newer variations. OligoFinder is developed as <b>part of the Google Summer of Code'22 program</b> at EMBL-EBI to address these limitations. It is a <b>scalable and semi-automated Bio-NER system</b> for identifying and extracting Oligonucleotide mentions and related data from Biomedical research papers.</span>
 	</div>
 </div>
-
-
-<!-- <div class="research-block">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/teasers/faceoff.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">News-Shell</div>
-		<div class="sub-title">Started in July 2022 | <a target="_blank" class="tab_paper"  href="add link">project page</a></div>
-		<div class="sub-title">Tech: add tech </div>		
-		<span class="research-text"> tell about project....extension of work "ShortRead" (add link of ShortRead project) started in Dec 2021.......</span>
-	</div>
-</div> -->
 
 
 <div class="research-block">
@@ -88,8 +73,8 @@ author_profile: true
 	<div class="right">
 		<div class="title" style="font-size: 14px;">TalkingHand: Sign Language Converter</div>
 		<div class="sub-title" style="font-size: 14px;">Started in May 2021 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/TalkingHand">Project Page</a></div><br>
-		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Computer Vision, Transfer-Learning, Image Classification, Python, TensorFlow </span><br><br>			
-		<span class="research-text" style="text-align: justify; display: inline-block; line-height: 1.5; font-size: 14px;"> TalkingHand is a Computer Vision and Deep Learning-based <b>Sign Language to Text Conversion System</b> that, with the help of fine-tuned <b>VGG16</b> convolutional neural network, classifies and converts the hand gestures made by the user into corresponding text-based labels. A <b>custom dataset of about 4000 images</b> each for 6 labels has been collected for fine-tuning the CNN model using a combination of <b>background subtraction</b> (BackgroundSubtractorMOG2) and <b>colour threshold techniques</b>. These techniques are used so that data collected will have a lower bias due to the shape & colour of the user's hand making the gesture and altering lighting conditions. The model achieved a test Accuracy of <b>0.802</b>, Precision of <b>0.805</b>, Recall of <b>0.801</b> and F1 score of <b>0.803</b>. The objective of this project is to take the first step towards developing a solution to help people with speaking and hearing disability communicate with other people. </span>
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Computer Vision (VGG16 CNN), Transfer-Learning, Image Classification, Python, TensorFlow </span><br><br>			
+		<span class="research-text" style="text-align: justify; display: inline-block; line-height: 1.5; font-size: 14px;"> TalkingHand is a Computer Vision and Deep Learning-based <b>Sign Language to Text Conversion System</b> that, with the help of fine-tuned <b>VGG16</b> convolutional neural network, classifies and converts the hand gestures made by the user into corresponding text-based labels. A <b>custom dataset of about 4000 images</b> each for 6 labels has been collected for fine-tuning the CNN model using a combination of <b>background subtraction</b> (MOG2) and <b>colour threshold techniques</b>. These techniques are used so that data collected will have a lower bias due to the shape & colour of the user's hand making the gesture and altering lighting conditions. The model achieved a test Accuracy of <b>0.802</b>, Precision of <b>0.805</b>, Recall of <b>0.801</b> and F1 score of <b>0.803</b>. The objective of this project is to take the first step towards developing a solution to help people with speaking and hearing disability communicate with other people. </span>
 	</div>
 </div>
 
@@ -103,8 +88,8 @@ author_profile: true
 	<div class="right">
 		<div class="title" style="font-size: 14px;">Describer: Image Captioning System</div>
 		<div class="sub-title" style="font-size: 14px;">Started in Apr 2020 | <a target="_blank" class="tab_paper"  href="https://github.com/malayjoshi13/Describer">Project Page</a></div><br>
-		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Computer Vision, NLP, Transfer-Learning, Text Generation, Python, TensorFlow </span><br><br>			
-		<span class="research-text" style="text-align: justify; display: inline-block; line-height: 1.5; font-size: 14px;">Describer is an <b>Image Captioning System</b> that generates textual captions describing the images fed to it. It is trained using <b>Flickr8k</b> data. It uses pre-trained <b>InceptionV3</b> which generates image embeddings and the <b>GloVe's weight</b> initialized Embedding layer which generates captions embeddings. Then, image embeddings after passing through a dense layer and captions embeddings after passing through <b>LSTM</b>, together go to <b>Feed-forward</b> network which outputs next word of input caption. Achieved <b>BLEU-1 score of 0.79</b> on the test dataset. The objective of this project is to take the first step towards developing a solution to help <b>visually impaired people understand visual</b> information around them.
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Computer Vision (InceptionV3 CNN), NLP (LSTM), Joint Image-Text Representation Learning, Text Generation, Python, TensorFlow </span><br><br>			
+		<span class="research-text" style="text-align: justify; display: inline-block; line-height: 1.5; font-size: 14px;">Describer is an <b>Image Captioning System</b> that generates textual captions describing the images fed to it. It is trained using <b>Flickr8k</b> data. It uses pre-trained <b>InceptionV3</b> which generates image embeddings and the <b>GloVe's weight</b> initialized Embedding layer which generates captions embeddings. Then, image embeddings after passing through a dense layer and captions embeddings after passing through <b>LSTM</b>, together go to <b>Feed-forward</b> network which outputs next word of input caption. Achieved <b>BLEU-1 score of 0.79</b> on the test dataset while using Greedy search decoding method. The objective of this project is to take the first step towards developing a solution to help <b>visually impaired people understand visual</b> information around them.
 		</span>
 	</div>
 </div>
