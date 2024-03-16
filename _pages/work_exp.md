@@ -15,9 +15,9 @@ author_profile: true
 		<div class="sub-title" style="font-size: 14px;">Sept 2023 - Present</div>
 		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Large Language Model (GPT3.5), Prompt Engineering, RAG, LLM Finetuning, Chatbot, Text-to-image models, Image-to-video models, LangChain, Qdrant, AWS</span><br>			
 		<span class="research-text"><ul>
-		<li style="text-align: justify; font-size: 14px;"> Experimenting with text-to-image models to generate images with <b>text in specific font styles</b> and image-to-video models to generate <b>visual storyboards</b> based on a given story/ context.</li> 
-		<li style="text-align: justify; font-size: 14px;"> Worked on a client project to develop a <b>prompt-engineered LLM-based</b> Twitter bot for ICC Men’s Cricket World Cup’23 to reply in a <b>positive and personality-specific tonality</b>. Curated <b>knowledge base</b> to make replies factful.</li> 
-		<li style="text-align: justify; font-size: 14px;"> Developed an <b>LLM-finetuned and RAG-based</b> chatbot to answer legal queries. Also worked on the feature of <b>automated legal document generation</b>. Deployed as a <b>microservice</b> on the AWS Platform.</li></ul></span>
+		<li style="text-align: justify; font-size: 14px;"> Developed PoCs using <b>image-to-image text style transfer</b> models to <b>generate images with specific font-styled textual content</b> and <b>text-to-image-to-video</b> models to <b>generate visual storyboards</b> based on a textual context.</li> 
+		<li style="text-align: justify; font-size: 14px;"> Worked on a <b>prompt-engineered</b> LLM-based Twitter bot for ICC Men’s Cricket World Cup’23 to reply <b>optimistically and with <>b>personality-specific</b> tonality. Curated knowledge base to make replies factful.</li> 
+		<li style="text-align: justify; font-size: 14px;"> Developed an <b>LLM-finetuned</b> and <b>RAG-based</b> chatbot to answer legal queries. Also worked on the feature of <b>automated legal document generation</b>. Deployed it as a microservice on the AWS Platform.</li></ul></span>
 	</div>
 </div>
 
